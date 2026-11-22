@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run GutenbergBookExplorer",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "GutenbergBookExplorer",
+            "classPaths": [
+                "${workspaceFolder}",
+                "${workspaceFolder}/jsoup-1.24.1.jar"
+            ]
+        }
+    ]
+}

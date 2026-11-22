@@ -1,0 +1,5 @@
+{
+    "java.project.referencedLibraries": [
+        "${workspaceFolder}/jsoup-1.24.1.jar"
+    ]
+}
